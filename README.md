@@ -22,3 +22,7 @@ CRUD operations.
 - OOP Concepts
 
 ## 📂 File Structure
+Student-Result-Management-System-CPP/
+│── main.cpp
+│── student_records.txt
+│── README.md
